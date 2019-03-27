@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "556652154517",
+    "firebase_url": "https://gps-ticket-checker.firebaseio.com",
+    "project_id": "gps-ticket-checker",
+    "storage_bucket": "gps-ticket-checker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556652154517:android:b8dc0817fcc0a20b",
+        "android_client_info": {
+          "package_name": "com.example.niket.gps_ticket_checker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556652154517-tadufe8is05ds9giuebfp6ee4ro8bov4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.niket.gps_ticket_checker",
+            "certificate_hash": "85f45b8e26153a847e80c555a78119de91146c81"
+          }
+        },
+        {
+          "client_id": "556652154517-pd884qvbodnsp7pkc5vimf4ija84kkfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCawt-y35eyUlO9HEn7KZMqOoh4-8VTyy8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556652154517-pd884qvbodnsp7pkc5vimf4ija84kkfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
